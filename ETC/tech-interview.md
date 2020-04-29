@@ -24,8 +24,25 @@
   - [ES6 문법](#ES6-문법)
   - [Scope](#Scope)
   - [Hoisting](#Hoisting)
+  - [Closure](#Closure)
+  - [This](#This)
+- [React](#React)
+  - [React란?](#React란?)
+  - [Next.js](#Next.js)
+  - [Hooks](#Hooks)
+  - [Context API](#Context-API)
+  - [Flux](#Flux)
+  - [MobX vs Redux](#MobX-vs-Redux)
+- [웹](#웹)
+  - [브라우저 동작 과정](#브라우저-동작-과정)
+- [함수형 프로그래밍](#함수형-프로그래밍)
+  - [함수형 프로그래밍이란?](#함수형-프로그래밍이란?)
+  - [순수 함수](#순수-함수)
+- [OOP](#OOP)
+  - [OOP 특징](#OOP-특징)
+- [TypeScript](#TypeScript)
 
-## HTML
+---
 
 ### article vs section vs div
 
@@ -191,15 +208,3 @@ JavaScript의 모든 함수는 실행될 때마다 함수 내부에 `this`라는
 ## TypeScript
 
 JavaScript의 대체 언어 중 하나로 정적 타이핑을 지원하는 JavaScript의 확장 언어이다.
-
-// TODO: 아래 내용 채우기
-
-- 웹
-  - AJAX
-- 개발 상식
-  - RESTful API
-  - CORS
-- Webpack
-- GraphQL
-- Apollo
-- Styled Component
