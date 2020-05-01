@@ -94,7 +94,7 @@ ES6 문법에는 화살표 함수, 클래스, let과 const, 제너레이터, 프
 
 ### [Scope](/JavaScript/scope.md)
 
-### Hoisting
+### [Hoisting](/JavaScript/hoisting.md)
 
 JavaScript에서 `var` 키워드 변수 선언이 위로 끌어올려지는 것. 변수가 함수 내에서 정의된 경우 선언이 함수 최상위로, 함수 바깥에서 정의되었을 경우 전역 컨텍스트의 최상위로 변경된다.
 
