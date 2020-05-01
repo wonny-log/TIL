@@ -26,6 +26,7 @@
   - [Hoisting](#Hoisting)
   - [Closure](#Closure)
   - [This](#This)
+  - [이벤트 전파](#이벤트-전파)
 - [React](#React)
   - [React란?](#React란)
   - [Next.js](#Nextjs)
@@ -126,6 +127,8 @@ JavaScript의 모든 함수는 실행될 때마다 함수 내부에 `this`라는
   - bind: 함수를 선언할 때 this와 파라미터 지정
   - call: 함수를 호출할 때 this와 파라미터 지정
   - apply: 함수를 호출할 때 this와 파라미터 지정, 배열 형태로 파라미터를 넘겨준다.
+
+### [이벤트 전파](/JavaScript/event-propagation.md)
 
 ## React
 
