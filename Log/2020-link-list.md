@@ -15,3 +15,4 @@
 - 2020.05.01 [[자바스크립트] 브라우저 렌더링](https://12bme.tistory.com/140)
 - 2020.05.01 [브라우저 렌더링 과정 - Reflow Repaint, 그리고 성능 최적화](https://boxfoxs.tistory.com/408) by 박스여우
 - 2020.05.01 [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361) by NAVER D2
+- 2020.05.01 [렌더링 트리 생성, 레이아웃 및 페인트](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ko) by Google
