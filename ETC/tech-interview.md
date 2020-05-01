@@ -92,15 +92,7 @@
 
 ES6 문법에는 화살표 함수, 클래스, let과 const, 제너레이터, 프라미스, async/await, 스프래드 연산자 등이 있다.
 
-### Scope
-
-변수나 함수 이름 충돌을 피하기 위해 정의한 규칙. 함수 레벨과 블록 레벨의 렉시컬 스코프(소스코드가 작성된 그 문맥에서 결정되는 것) 규칙을 따른다.
-
-- 함수 레벨 스코프: `var` 키워드로 선언된 변수, 함수 선언식으로 만들어진 함수
-- 블록 레벨 스코프: `let`, `const` 키워드로 선언된 변수와 함수
-
-- Reference
-  - [자바스크립트의 스코프와 클로저 | TOAST](https://meetup.toast.com/posts/86)
+### [Scope](/JavaScript/scope.md)
 
 ### Hoisting
 
