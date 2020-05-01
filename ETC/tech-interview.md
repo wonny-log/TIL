@@ -149,15 +149,7 @@ JavaScript의 모든 함수는 실행될 때마다 함수 내부에 `this`라는
 
 ## 웹
 
-### 브라우저 동작 과정
-
-- URL을 통해 서버에서 HTML와 같은 자원을 요청해서 받아온다.
-- DOM 트리 구축을 위해 HTML을 파싱한다.
-- 태그를 모두 DOM 노드로 변환한다.
-- 스타일 요소를 파싱해서 CSS 객체 모델 생성
-- Render Tree 생성
-- Render Tree 배치
-- Render Tree 그리기
+### [브라우저 동작 과정](/Web/how-browsers-work.md)
 
 ## 함수형 프로그래밍
 
