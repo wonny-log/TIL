@@ -69,19 +69,7 @@
 
 ## JavaScript
 
-### Event Loop
-
-한 번에 하나의 작업만 처리할 수 있는 단일 스레드 언어인 JavaScript에서 동시성(concurrency) 처리를 지원하기 위해 사용하는 컨셉.
-
-JavaScript 엔진은 Call Stack을 통해 요청된 task를 순차적으로 실행할뿐, 실질적으로 동시성을 지원하기 위한 Event Loop는 JavaScript가 동작하는 환경(브라우저, Node.js 등)이 담당한다.
-
-JavaScript 엔진은 Call Stack과 Heap 영역으로 나뉨. Call Stack은 요청된 작업을 FIFO 형태의 배열로 쌓아서 순차적으로 실행한다. 그러므로 JavaScript는 실행하고 있는 작업이 종료되기 전까지는 다른 어떤 작업도 수행할 수 없음(Run to Completion 방식). Heap은 동적으로 생성된 객체 인스턴스가 할당된다.
-
-Call Stack 내에서 현재 실행중인 작업이 있는지 확인하여 Call Stack이 비워질 때 Event Queue에서 작업을 꺼내와서 Call Stack으로 보낸다.
-
-- Reference
-  - [자바스크립트와 이벤트 루프 | TOAST](https://meetup.toast.com/posts/89)
-  - [이벤트 | Poiemaweb](https://poiemaweb.com/js-event)
+### [Event Loop](/JavaScript/event-loop.md)
 
 ### 마이크로 테스트
 
