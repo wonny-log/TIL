@@ -47,5 +47,5 @@ foo();
 
 ## Reference
 
-- [자바스크립트와 이벤트 루프 | TOAST](https://meetup.toast.com/posts/89)
-- [이벤트 | Poiemaweb](https://poiemaweb.com/js-event)
+- [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89) by TOAST
+- [이벤트](https://poiemaweb.com/js-event) by Poiemaweb
