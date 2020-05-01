@@ -5,7 +5,7 @@
 JavaScript 엔진은 Call Stack과 Heap 영역으로 나뉘어 있다.
 
 - Call Stack: 요청된 작업을 FIFO 형태의 배열로 쌓아서 순차적으로 실행하는 영역이다.
-  - JavaScript는 단 하나의 Call Stack을 가지기 때문에 실행하고 있는 작업이 종료되기 전까지는 다른 어떤 작업도 수행할 수 없다. 이를. Run to Completion 방식이라고도 부른다.
+  - JavaScript는 단 하나의 Call Stack을 가지기 때문에 실행하고 있는 작업이 종료되기 전까지는 다른 어떤 작업도 수행할 수 없다. 이를 Run to Completion 방식이라고도 부른다.
 - Heap: 동적으로 생성된 객체 인스턴스가 할당되는 영역이다.
 
 ## Event Loop란?
