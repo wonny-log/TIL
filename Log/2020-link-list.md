@@ -6,3 +6,4 @@
 # 5월
 
 - 2020.05.01 [이직 기록](https://jbee.io/career/2020-turnover-0/) by 한재엽
+- 2020.05.01 [await의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161) by 신재헌
