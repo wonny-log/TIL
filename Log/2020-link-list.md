@@ -16,3 +16,5 @@
 - 2020.05.01 [브라우저 렌더링 과정 - Reflow Repaint, 그리고 성능 최적화](https://boxfoxs.tistory.com/408) by 박스여우
 - 2020.05.01 [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361) by NAVER D2
 - 2020.05.01 [렌더링 트리 생성, 레이아웃 및 페인트](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ko) by Google
+- 2020.05.02 [명상은 소통•생산성 향상 촉매제 명분 중시하는 Z세대 통해 더욱 확산될 것](https://dbr.donga.com/article/view/1306/article_no/9596) by DBR
+- 2020.05.02 [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html) by 한민호
