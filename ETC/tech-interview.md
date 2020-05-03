@@ -112,6 +112,8 @@ JavaScript의 모든 함수는 실행될 때마다 함수 내부에 `this`라는
 
 ### [이벤트 전파](/JavaScript/event-propagation.md)
 
+### [얕은 복사와 깊은 복사]()(/JavaScript/shallow-copy-and-deep-copy.md)
+
 ## React
 
 ### React란?
