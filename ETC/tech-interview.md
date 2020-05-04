@@ -8,6 +8,8 @@
   - [React 면접 내용](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/issues/68)
 - [React / Node.js Fullstack 개발직군 면접 후기](https://yoon.site/react-node-js-fullstack-%EA%B0%9C%EB%B0%9C%EC%A7%81%EA%B5%B0-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0/)
 - [react 기술면접 질문](https://m.blog.naver.com/z1004man/221878557383) by 한량개발자
+- [프론트엔드 개발자 면접 질문(기술면접) 정리](https://sunnykim91.tistory.com/121) by sunnykim
+- [Kill Your Next Tech Interview](https://www.fullstack.cafe/blog/top-26-react-redux-interview-questions-to-brush-up-2018)
 
 ## 목차
 
