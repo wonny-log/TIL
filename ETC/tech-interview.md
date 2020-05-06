@@ -7,6 +7,9 @@
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
   - [React 면접 내용](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/issues/68)
 - [React / Node.js Fullstack 개발직군 면접 후기](https://yoon.site/react-node-js-fullstack-%EA%B0%9C%EB%B0%9C%EC%A7%81%EA%B5%B0-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0/)
+- [react 기술면접 질문](https://m.blog.naver.com/z1004man/221878557383) by 한량개발자
+- [프론트엔드 개발자 면접 질문(기술면접) 정리](https://sunnykim91.tistory.com/121) by sunnykim
+- [Kill Your Next Tech Interview](https://www.fullstack.cafe/blog/top-26-react-redux-interview-questions-to-brush-up-2018)
 
 ## 목차
 
@@ -112,6 +115,8 @@ JavaScript의 모든 함수는 실행될 때마다 함수 내부에 `this`라는
 
 ### [이벤트 전파](/JavaScript/event-propagation.md)
 
+### [얕은 복사와 깊은 복사]()(/JavaScript/shallow-copy-and-deep-copy.md)
+
 ## React
 
 ### React란?
@@ -155,7 +160,7 @@ JavaScript의 모든 함수는 실행될 때마다 함수 내부에 `this`라는
 
 ### 함수형 프로그래밍이란?
 
-함수를 이용해서 사이드 이펙트가 없도록 선언형 프로그래밍을 이용하는 것이다.
+함수를 이용해서 사이드 이펙트가 없도록 선언형 프로그래밍을 이용하는 것이다. 순수 함수들을 조합하여 애플리케이션을 만드는 방식이다.
 
 ### 순수 함수
 
