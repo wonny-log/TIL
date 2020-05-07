@@ -19,3 +19,4 @@
 - 2020.05.02 [명상은 소통•생산성 향상 촉매제 명분 중시하는 Z세대 통해 더욱 확산될 것](https://dbr.donga.com/article/view/1306/article_no/9596) by DBR
 - 2020.05.02 [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html) by 한민호
 - 2020.05.03 [객체의 복사](https://www.zerocho.com/category/JavaScript/post/5750d384b73ae5152792188d) by 제로초
+- 2020.05.07 [관심을 바랄때 창의력은 사라집니다 – 조셉고든레빗의 TED 강연](https://newspeppermint.com/2020/03/19/attention/) by veritaholic
