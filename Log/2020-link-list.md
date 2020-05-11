@@ -20,3 +20,4 @@
 - 2020.05.02 [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html) by 한민호
 - 2020.05.03 [객체의 복사](https://www.zerocho.com/category/JavaScript/post/5750d384b73ae5152792188d) by 제로초
 - 2020.05.07 [관심을 바랄때 창의력은 사라집니다 – 조셉고든레빗의 TED 강연](https://newspeppermint.com/2020/03/19/attention/) by veritaholic
+- 2020.05.11 [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting/) by FERNANDO
