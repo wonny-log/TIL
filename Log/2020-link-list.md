@@ -21,4 +21,5 @@
 - 2020.05.03 [객체의 복사](https://www.zerocho.com/category/JavaScript/post/5750d384b73ae5152792188d) by 제로초
 - 2020.05.07 [관심을 바랄때 창의력은 사라집니다 – 조셉고든레빗의 TED 강연](https://newspeppermint.com/2020/03/19/attention/) by veritaholic
 - 2020.05.11 [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting/) by FERNANDO
+- 2020.05.12 [[김태훈의 미래를 묻다] 당신의 데이터는 누구를 위해 쓰이나](https://n.news.naver.com/article/025/0002997835/) by 김태훈
 - 2020.05.13 [[노트북을 열며] 위기 겪을 때 진짜 모습 드러난다](https://news.joins.com/article/23775276/) by 임미진
