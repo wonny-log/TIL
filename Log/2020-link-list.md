@@ -24,3 +24,4 @@
 - 2020.05.12 [[김태훈의 미래를 묻다] 당신의 데이터는 누구를 위해 쓰이나](https://n.news.naver.com/article/025/0002997835/) by 김태훈
 - 2020.05.13 [[노트북을 열며] 위기 겪을 때 진짜 모습 드러난다](https://news.joins.com/article/23775276/) by 임미진
 - 2020.05.15 [[방구석 1열] 한 사람의 결이나 질감은 잘 관리된 콤플렉스에서 온다](https://m.cafe.daum.net/subdued20club/ReHf/2719778)
+- 2020.05.16 [자신을 존중하는 한 가지 방법](https://www.donga.com/news/article/all/20200516/101066268/1) by 최인아
