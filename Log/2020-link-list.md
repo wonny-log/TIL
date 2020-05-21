@@ -26,3 +26,5 @@
 - 2020.05.15 [[방구석 1열] 한 사람의 결이나 질감은 잘 관리된 콤플렉스에서 온다](https://m.cafe.daum.net/subdued20club/ReHf/2719778)
 - 2020.05.16 [자신을 존중하는 한 가지 방법](https://www.donga.com/news/article/all/20200516/101066268/1) by 최인아
 - 2020.05.20 [싸이감성체를 활용한 한국인 인증 인터페이스 개발기](https://brunch.co.kr/@andrewyhc/127) by Younghwi Cho
+- 2020.05.21 [[강원국의 ‘리더가 말하는 법’] “유머감각이 리더십이다”…당신은 웃기는 사람입니까?](https://firenzedt.com/?p=6643) by 강원국
+- 2020.05.21 [인출 위주의 학습법 적용기](https://hannut91.github.io/blogs/self-exam) by 한윤석
