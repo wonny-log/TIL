@@ -28,3 +28,4 @@
 - 2020.05.20 [싸이감성체를 활용한 한국인 인증 인터페이스 개발기](https://brunch.co.kr/@andrewyhc/127) by Younghwi Cho
 - 2020.05.21 [[강원국의 ‘리더가 말하는 법’] “유머감각이 리더십이다”…당신은 웃기는 사람입니까?](https://firenzedt.com/?p=6643) by 강원국
 - 2020.05.21 [인출 위주의 학습법 적용기](https://hannut91.github.io/blogs/self-exam) by 한윤석
+- 2020.05.22 [루프 페스티벌을 회고하며](https://brunch.co.kr/@sunjae/27) by 이선재
