@@ -29,3 +29,4 @@
 - 2020.05.21 [[강원국의 ‘리더가 말하는 법’] “유머감각이 리더십이다”…당신은 웃기는 사람입니까?](https://firenzedt.com/?p=6643) by 강원국
 - 2020.05.21 [인출 위주의 학습법 적용기](https://hannut91.github.io/blogs/self-exam) by 한윤석
 - 2020.05.22 [루프 페스티벌을 회고하며](https://brunch.co.kr/@sunjae/27) by 이선재
+- 2020.05.23 [내게 실용적이었던 프로그래밍 공부 방법들](https://ppss.kr/archives/204117/) by PlanB
