@@ -28,4 +28,6 @@
 - 2020.05.20 [싸이감성체를 활용한 한국인 인증 인터페이스 개발기](https://brunch.co.kr/@andrewyhc/127) by Younghwi Cho
 - 2020.05.21 [[강원국의 ‘리더가 말하는 법’] “유머감각이 리더십이다”…당신은 웃기는 사람입니까?](https://firenzedt.com/?p=6643) by 강원국
 - 2020.05.21 [인출 위주의 학습법 적용기](https://hannut91.github.io/blogs/self-exam) by 한윤석
+- 2020.05.22 [루프 페스티벌을 회고하며](https://brunch.co.kr/@sunjae/27) by 이선재
+- 2020.05.23 [내게 실용적이었던 프로그래밍 공부 방법들](https://ppss.kr/archives/204117/) by PlanB
 - 2020.05.24 [개발자, 트렌드를 버리다 — 1년 후 소감](https://medium.com/@easylogic/%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A5%BC-%EB%B2%84%EB%A6%AC%EB%8B%A4-1%EB%85%84-%ED%9B%84-%EC%86%8C%EA%B0%90-e75a859280e9) by easylogic
