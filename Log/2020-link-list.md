@@ -32,3 +32,4 @@
 - 2020.05.23 [내게 실용적이었던 프로그래밍 공부 방법들](https://ppss.kr/archives/204117/) by PlanB
 - 2020.05.24 [개발자, 트렌드를 버리다 — 1년 후 소감](https://medium.com/@easylogic/%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A5%BC-%EB%B2%84%EB%A6%AC%EB%8B%A4-1%EB%85%84-%ED%9B%84-%EC%86%8C%EA%B0%90-e75a859280e9) by easylogic
 - 2020.05.25 [퍼블린의 내맘대로(?) 온보딩 다이어리](https://www.notion.so/87868befad324424b53832b1bdabdf86) by 퍼블린
+- 2020.05.25 [프로덕트를 만드는 모든 사람을 위한 개발 지식](https://www.notion.so/74c1bc468ec2420e959743a21c64c668) by 김민지
