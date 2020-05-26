@@ -34,3 +34,4 @@
 - 2020.05.25 [퍼블린의 내맘대로(?) 온보딩 다이어리](https://www.notion.so/87868befad324424b53832b1bdabdf86) by 퍼블린
 - 2020.05.25 [프로덕트를 만드는 모든 사람을 위한 개발 지식](https://www.notion.so/74c1bc468ec2420e959743a21c64c668) by 김민지
 - 2020.05.26 [개발자 여러분, 디자인시스템 지금 바로 도입하세요!](https://blog.gangnamunni.com/post/welchis) by Chichi
+- 2020.05.26 [Vue.js 입문서 - 프론트엔드 개발자를 위한](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/) by 장기효
