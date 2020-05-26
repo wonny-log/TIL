@@ -142,6 +142,54 @@ $ vue create first-project
 
 ## 컴포넌트
 
+### 컴포넌트 생성
+
+```html
+<div id="app">
+  <ol>
+    <todo-item></todo-item>
+  </ol>
+</div>
+
+<script>
+  Vue.component("todo-item", {
+    template: "<li>This is a Todo</li>",
+  });
+
+  var app = new Vue({
+    el: "#app",
+  });
+</script>
 ```
 
+### prop
+
+```html
+<div id="app">
+  <ol>
+    <todo-item
+      v-for="item in groceryList"
+      v-bind:todo="item"
+      v-bind:key="item.id"
+    ></todo-item>
+  </ol>
+</div>
+
+<script>
+  Vue.component("todo-item", {
+    props: ["todo"],
+    template: "<li>{{ todo.text }}</li>",
+  });
+
+  var app = new Vue({
+    el: "#app",
+    data: {
+      groceryList: [
+        { id: 0, text: "Vegetables" },
+        { id: 1, text: "Cheese" },
+        { id: 2, text: "Whateever else humans are supposed to eat" },
+      ],
+    },
+  });
+</script>
 ```
