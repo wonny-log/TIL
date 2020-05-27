@@ -124,3 +124,69 @@ computed: {
 }
 // ...
 ```
+
+이제 `vm.fullName = 'John Doe'`를 실행하면 setter가 호출되고 `vm.firstName`과 `vm.lastName`이 그에 따라 업뎃됨
+
+## watch
+
+대부분 computed 속성이 더 적합하지만 사용자가 만든 watch가 필요한 경우가 있음. Vue는 `watch` 옵션을 통해 데이터 변경에 반응하는 보다 일반적인 방법을 제공함. 데이터 변경에 대한 응답으로 비동기식 또는 시간이 많이 소요되는 조작을 수행하려는 경우에 가장 유용함
+
+```html
+<div id="watch-example">
+  <p>
+    yes/no 질문을 물어보세요:
+    <input v-model="question">
+  </p>
+  <p>{{ answer }}</p>
+</div>
+
+<script>
+<script src="https://unpkg.com/axios@0.12.0/dist/axios.min.js"></script>
+<script src="https://unpkg.com/lodash@4.13.1/lodash.min.js"></script>
+<script>
+var watchExampleVM = new Vue({
+  el: '#watch-example',
+  data: {
+    question: '',
+    answer: '질문을 하기 전까지는 대답할 수 없습니다.'
+  },
+  watch: {
+    // 질문이 변경될 때 마다 이 기능이 실행됩니다.
+    question: function (newQuestion) {
+      this.answer = '입력을 기다리는 중...'
+      this.getAnswer()
+    }
+  },
+  methods: {
+    // _.debounce는 lodash가 제공하는 기능으로
+    // 특히 시간이 많이 소요되는 작업을 실행할 수 있는 빈도를 제한합니다.
+    // 이 경우, 우리는 yesno.wtf/api 에 액세스 하는 빈도를 제한하고,
+    // 사용자가 ajax요청을 하기 전에 타이핑을 완전히 마칠 때까지 기다리길 바랍니다.
+    // _.debounce 함수(또는 이와 유사한 _.throttle)에 대한
+    // 자세한 내용을 보려면 https://lodash.com/docs#debounce 를 방문하세요.
+    getAnswer: _.debounce(
+      function () {
+        if (this.question.indexOf('?') === -1) {
+          this.answer = '질문에는 일반적으로 물음표가 포함 됩니다. ;-)'
+          return
+        }
+        this.answer = '생각중...'
+        var vm = this
+        axios.get('https://yesno.wtf/api')
+          .then(function (response) {
+            vm.answer = _.capitalize(response.data.answer)
+          })
+          .catch(function (error) {
+            vm.answer = '에러! API 요청에 오류가 있습니다. ' + error
+          })
+      },
+      // 사용자가 입력을 기다리는 시간(밀리세컨드) 입니다.
+      500
+    )
+  }
+})
+</script>
+</script>
+```
+
+watch 옵션을 사용하면 비동기 연산을 수행하고 우리가 그 연산을 얼마나 자주 수행하는지 제한하고 최종 응답을 얻을 때까지 중간 상태를 설정할 수 있음.
