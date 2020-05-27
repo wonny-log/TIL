@@ -37,3 +37,4 @@
 - 2020.05.26 [Vue.js 입문서 - 프론트엔드 개발자를 위한](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/) by 장기효
 - 2020.05.26 [Vue.js 개발 생산성을 높여주는 도구 3가지](https://joshua1988.github.io/web-development/vuejs/boost-productivity/) by 장기효
 - 2020.05.27 [상투적이지 않게 쓴, 성장하는 회사들의 공통점](https://brunch.co.kr/@choej1/12) by 최정원
+- 2020.05.27 [경제 주체 김토스, 종합소득세를 생각하다](https://blog.toss.im/2020/05/14/money/life/may-incometax/) by 토스
