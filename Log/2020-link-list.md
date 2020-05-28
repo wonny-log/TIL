@@ -42,3 +42,4 @@
 - 2020.05.27 [연말정산이란?](https://help.jobis.co/hc/ko/articles/115004860453-%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0%EC%9D%B4%EB%9E%80-) by 자비스
 - 2020.05.27 [[연말정산] 소득공제와 세액공제란](https://help.jobis.co/hc/ko/articles/115004861493-%EC%86%8C%EB%93%9D%EA%B3%B5%EC%A0%9C%EC%99%80-%EC%84%B8%EC%95%A1%EA%B3%B5%EC%A0%9C-) by 자비스
 - 2020.05.28 [토스 긴급재난지원금 서비스, 어떻게 이틀 만에 런칭했을까?](https://blog.toss.im/2020/05/28/tossteam/culture/disasterfund-behindstory/) by 토스
+- 2020.05.28 [Vue에서 중첩 데이터를 감시하는 법](https://ui.toast.com/weekly-pick/ko_20190307/) by TOAST
