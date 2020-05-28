@@ -41,3 +41,4 @@
 - 2020.05.27 [다들 아는척 하지만 잘 모르는 연말정산 기본개념 5가지](https://banksalad.com/contents/%EB%8B%A4%EB%93%A4-%EC%95%84%EB%8A%94%EC%B2%99-%ED%95%98%EC%A7%80%EB%A7%8C-%EC%9E%98-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0-%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90-5%EA%B0%80%EC%A7%80-2a6d) by 빈누
 - 2020.05.27 [연말정산이란?](https://help.jobis.co/hc/ko/articles/115004860453-%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0%EC%9D%B4%EB%9E%80-) by 자비스
 - 2020.05.27 [[연말정산] 소득공제와 세액공제란](https://help.jobis.co/hc/ko/articles/115004861493-%EC%86%8C%EB%93%9D%EA%B3%B5%EC%A0%9C%EC%99%80-%EC%84%B8%EC%95%A1%EA%B3%B5%EC%A0%9C-) by 자비스
+- 2020.05.28 [토스 긴급재난지원금 서비스, 어떻게 이틀 만에 런칭했을까?](https://blog.toss.im/2020/05/28/tossteam/culture/disasterfund-behindstory/) by 토스
