@@ -55,10 +55,6 @@ $ vue create first-project
 
 만일 Node.js 기반의 빌드 도구에 대한 사전 지식이 없다면 CLI 대신 [이 가이드](https://vuejs.org/v2/guide/)를 추천합니다.
 
-## Vue DevTools
-
-[Vue DevTools](https://github.com/vuejs/vue-devtools#vue-devtools)을 사용하면 브라우저에서 유저 친화적인 인터페이스에서 Vue 애플리케이션을 검사하고 디버깅할 수 있습니다.
-
 ### 체험하기
 
 Vue를 빠르고 쉽게 체험해보기 위한 두 가지 방법이 있습니다.
@@ -74,6 +70,10 @@ or:
 <!-- 프로덕션 버전, 크기와 속도가 최적화됨 -->
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 ```
+
+## Vue DevTools
+
+[Vue DevTools](https://github.com/vuejs/vue-devtools#vue-devtools)을 사용하면 브라우저에서 유저 친화적인 인터페이스에서 Vue 애플리케이션을 검사하고 디버깅할 수 있습니다.
 
 ## 조건문
 
