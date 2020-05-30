@@ -44,3 +44,10 @@
 - 2020.05.28 [토스 긴급재난지원금 서비스, 어떻게 이틀 만에 런칭했을까?](https://blog.toss.im/2020/05/28/tossteam/culture/disasterfund-behindstory/) by 토스
 - 2020.05.28 [Vue에서 중첩 데이터를 감시하는 법](https://ui.toast.com/weekly-pick/ko_20190307/) by TOAST
 - 2020.05.30 [[이현세의 만화경] 해 지기 전에 한 걸음만 더 걷다보면…](https://m.seoul.co.kr/news/newsView.php?cp=seoul&id=20050223030004) by 이현세
+- 2020.05.30 [How to use Prettier in VS Code](https://www.robinwieruch.de/how-to-use-prettier-vscode) by Robin Wieruch
+- 2020.05.30 [How to make Prettier work with ESLint](https://www.robinwieruch.de/prettier-eslint) by Robin Wieruch
+- 2020.05.30 [How to use ESLint in Webpack](https://www.robinwieruch.de/webpack-eslint) by Robin Wieruch
+- 2020.05.30 [ESLint 조금 더 잘 활용하기](https://tech.kakao.com/2019/12/05/make-better-use-of-eslint/) by Kakao Tech
+- 2020.05.30 [prettier와 eslint설정하기(+타입스크립트 설정)](https://medium.com/@simsimjae/prettier%EC%99%80-eslint%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%84%A4%EC%A0%95-110dc8ab94b6) by 심재철
+- 2020.05.30 [리액트 프로젝트에 ESLint 와 Prettier 끼얹기](https://velog.io/@velopert/eslint-and-prettier-in-react) by velopert
+- 2020.05.30 [VS Code에서 ESlint와 Prettier 함께 사용하기](https://feynubrick.github.io/2019/05/20/eslint-prettier.html) by feynubrick
