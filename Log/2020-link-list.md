@@ -43,3 +43,4 @@
 - 2020.05.27 [[연말정산] 소득공제와 세액공제란](https://help.jobis.co/hc/ko/articles/115004861493-%EC%86%8C%EB%93%9D%EA%B3%B5%EC%A0%9C%EC%99%80-%EC%84%B8%EC%95%A1%EA%B3%B5%EC%A0%9C-) by 자비스
 - 2020.05.28 [토스 긴급재난지원금 서비스, 어떻게 이틀 만에 런칭했을까?](https://blog.toss.im/2020/05/28/tossteam/culture/disasterfund-behindstory/) by 토스
 - 2020.05.28 [Vue에서 중첩 데이터를 감시하는 법](https://ui.toast.com/weekly-pick/ko_20190307/) by TOAST
+- 2020.05.30 [[이현세의 만화경] 해 지기 전에 한 걸음만 더 걷다보면…](https://m.seoul.co.kr/news/newsView.php?cp=seoul&id=20050223030004) by 이현세
