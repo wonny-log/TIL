@@ -56,3 +56,4 @@
 
 - 2020.06.01 [Nuxt.js 개념부터 설치까지 빠르게 배우기](https://kdydesign.github.io/2019/04/10/nuxtjs-tutorial/) by DY.Kim
 - 2020.06.01 [XSS in Vue.js](https://blog.sqreen.com/xss-in-vue-js/) by Thibaud
+- 2020.06.02 [오픈소스 입문을 위한 아주 구체적인 가이드](https://velog.io/@ppp3195/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%EC%A3%BC-%EA%B5%AC%EC%B2%B4%EC%A0%81%EC%9D%B8-%EA%B0%80%EC%9D%B4%EB%93%9C) by ppp3195
