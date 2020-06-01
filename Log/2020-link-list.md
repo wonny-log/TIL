@@ -55,3 +55,4 @@
 # 6월
 
 - 2020.06.01 [Nuxt.js 개념부터 설치까지 빠르게 배우기](https://kdydesign.github.io/2019/04/10/nuxtjs-tutorial/) by DY.Kim
+- 2020.06.01 [XSS in Vue.js](https://blog.sqreen.com/xss-in-vue-js/) by Thibaud
