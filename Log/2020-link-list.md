@@ -59,3 +59,5 @@
 - 2020.06.02 [오픈소스 입문을 위한 아주 구체적인 가이드](https://velog.io/@ppp3195/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%EC%A3%BC-%EA%B5%AC%EC%B2%B4%EC%A0%81%EC%9D%B8-%EA%B0%80%EC%9D%B4%EB%93%9C) by ppp3195
 - 2020.06.03 [Transfer data from one HTML file to another](https://stackoverflow.com/questions/17502071/transfer-data-from-one-html-file-to-another) by stackoverflow
 - 2020.06.03 [Named Routes in Nuxt.js](https://zaengle.com/blog/named-routes-in-nuxt) by Rachel Opperman
+- 2020.06.03 [[번역] 오픈소스 에티켓](https://medium.com/jung-han/%EB%B2%88%EC%97%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%ED%8B%B0%EC%BC%93-bf59267d1db3) by Jung Han
+- 2020.06.03 [[번역] 오픈 소스에 참여하는 가장 쉬운 방법](https://rinae.dev/posts/the-easiest-way-to-get-into-open-source-kor) by 안도형
