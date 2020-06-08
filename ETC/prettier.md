@@ -46,6 +46,30 @@ prettier --write .
 
 위 명령어를 실행하면 현재 디렉터리들과 하위 디렉터리들에 있는 모든 파일을 변경시켜줍니다.
 
+## 설정하기
+
+프로젝트 루트 경로에 `.prettierrc` 파일을 추가하여 옵션을 추가할 수 있습니다.
+
+```json
+{
+  "semi": false,
+  "overrides": [
+    {
+      "files": "*.test.js",
+      "options": {
+        "semi": true
+      }
+    },
+    {
+      "files": ["*.html", "legacy/**/*.js"],
+      "options": {
+        "tabWidth": 4
+      }
+    }
+  ]
+}
+```
+
 ## Ignore
 
 몇 가지 설정을 통해 Prettier 적용을 제외시킬 수 있습니다.
