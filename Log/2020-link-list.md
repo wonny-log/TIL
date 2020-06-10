@@ -62,3 +62,4 @@
 - 2020.06.03 [[번역] 오픈소스 에티켓](https://medium.com/jung-han/%EB%B2%88%EC%97%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%ED%8B%B0%EC%BC%93-bf59267d1db3) by Jung Han
 - 2020.06.03 [[번역] 오픈 소스에 참여하는 가장 쉬운 방법](https://rinae.dev/posts/the-easiest-way-to-get-into-open-source-kor) by 안도형
 - 2020.06.04 [오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/) by Naver
+- 2020.06.10 [Caching dependencies to speed up workflows](https://help.github.com/en/actions/configuring-and-managing-workflows/caching-dependencies-to-speed-up-workflows) by GitHub
