@@ -63,3 +63,4 @@
 - 2020.06.03 [[번역] 오픈 소스에 참여하는 가장 쉬운 방법](https://rinae.dev/posts/the-easiest-way-to-get-into-open-source-kor) by 안도형
 - 2020.06.04 [오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/) by Naver
 - 2020.06.10 [Caching dependencies to speed up workflows](https://help.github.com/en/actions/configuring-and-managing-workflows/caching-dependencies-to-speed-up-workflows) by GitHub
+- 2020.06.11 [나는 TDD(Test-Driven Development)가 디자인 도구라 생각하지 않는다](https://www.facebook.com/jinwook.chung.167/posts/1890555361179897) by 정진욱
