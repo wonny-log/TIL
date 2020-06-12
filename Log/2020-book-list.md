@@ -21,6 +21,7 @@
 # 6월
 - 2020.06.03- 팀 개발을 위한 Git, GitHub 시작하기 by 정호영, 진유림
 - 2020.06.10- 자존감 수업 by 윤홍균
+- 2020.06.12- Test-Driven Development: By Example by 켄트 벡
 
 # 읽고 싶은 책
 
