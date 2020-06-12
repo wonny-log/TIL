@@ -21,8 +21,9 @@
 # 6월
 - 2020.06.03- 팀 개발을 위한 Git, GitHub 시작하기 by 정호영, 진유림
 - 2020.06.10- 자존감 수업 by 윤홍균
-- 2020.06.12- Test-Driven Development: By Example by 켄트 벡
+- 2020.06.12- 자바스크립트 패턴과 테스트 by 래리 스펜서, 세스 리처즈
 
 # 읽고 싶은 책
 
 - 자바스크립트는 왜 그 모양일까? by 더글라스 크락포드
+- Test-Driven Development: By Example by 켄트 벡
