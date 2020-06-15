@@ -65,3 +65,4 @@
 - 2020.06.10 [Caching dependencies to speed up workflows](https://help.github.com/en/actions/configuring-and-managing-workflows/caching-dependencies-to-speed-up-workflows) by GitHub
 - 2020.06.11 [나는 TDD(Test-Driven Development)가 디자인 도구라 생각하지 않는다](https://www.facebook.com/jinwook.chung.167/posts/1890555361179897) by 정진욱
 - 2020.06.11 [[번역] 그래서, 자바스크립트 테스트가 뭔가요?](https://rinae.dev/posts/what-is-testing-javascript-kr) by 안도형
+- 2020.06.15 [최고의 리더들이 글을 쓰는 5가지 이유](https://brunch.co.kr/@rickeygo/265) by 홍선표
