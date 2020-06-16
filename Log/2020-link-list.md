@@ -66,3 +66,8 @@
 - 2020.06.11 [나는 TDD(Test-Driven Development)가 디자인 도구라 생각하지 않는다](https://www.facebook.com/jinwook.chung.167/posts/1890555361179897) by 정진욱
 - 2020.06.11 [[번역] 그래서, 자바스크립트 테스트가 뭔가요?](https://rinae.dev/posts/what-is-testing-javascript-kr) by 안도형
 - 2020.06.15 [최고의 리더들이 글을 쓰는 5가지 이유](https://brunch.co.kr/@rickeygo/265) by 홍선표
+- 2020.06.19 [기술 콘텐츠는 대체로 헛소리다](https://muchtrans.com/translations/most-tech-content-is-bullshit.ko.html) by zerobased.co
+- 2020.06.19 [그래서 유닛테스트(Unit Test)가 뭔가요?](https://imasoftwareengineer.tistory.com/88) by 삐멜
+- 2020.06.19 [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/) by 장기효
+- 2020.06.19 [테스트 코드가 필요한 이유](https://joshua1988.github.io/vue-camp/testing/overview.html) by 장기효
+- 2020.06.19 [Unit Testing with Jest](https://joshua1988.github.io/vue-camp/testing/jest-testing.html) by 장기효
