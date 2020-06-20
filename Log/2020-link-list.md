@@ -71,3 +71,4 @@
 - 2020.06.19 [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/) by 장기효
 - 2020.06.19 [테스트 코드가 필요한 이유](https://joshua1988.github.io/vue-camp/testing/overview.html) by 장기효
 - 2020.06.19 [Unit Testing with Jest](https://joshua1988.github.io/vue-camp/testing/jest-testing.html) by 장기효
+- 2020.06.20 [[폴인인사이트]'이 사람, 일 잘하겠구나' 생각 드는 이메일, 무엇이 다를까?](https://news.v.daum.net/v/20200617062409643) by 폴인
