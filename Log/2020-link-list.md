@@ -73,3 +73,7 @@
 - 2020.06.19 [Unit Testing with Jest](https://joshua1988.github.io/vue-camp/testing/jest-testing.html) by 장기효
 - 2020.06.20 [[폴인인사이트]'이 사람, 일 잘하겠구나' 생각 드는 이메일, 무엇이 다를까?](https://news.v.daum.net/v/20200617062409643) by 폴인
 - 2020.06.24 [[직설]재능과 반복](https://n.news.naver.com/article/032/0003015062) by 이슬아
+- 2020.06.26 [Positive Core 찾기](https://www.facebook.com/Jeewhan/posts/3101754443224807) by 김성준
+- 2020.06.26 [성장한다는 것](https://brunch.co.kr/@choikiwoong/48) by 최기웅
+- 2020.06.26 [한국 조직의 나쁜 버릇 – 쪼기문화](https://www.venturesquare.net/517907) by MBA 블로거
+- 2020.06.27 [2018년, 내가 모르는 기술들](https://overreacted.io/ko/things-i-dont-know-as-of-2018/) by Dan Abramove
