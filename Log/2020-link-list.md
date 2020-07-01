@@ -73,3 +73,7 @@
 - 2020.06.19 [Unit Testing with Jest](https://joshua1988.github.io/vue-camp/testing/jest-testing.html) by 장기효
 - 2020.06.20 [[폴인인사이트]'이 사람, 일 잘하겠구나' 생각 드는 이메일, 무엇이 다를까?](https://news.v.daum.net/v/20200617062409643) by 폴인
 - 2020.06.24 [[직설]재능과 반복](https://n.news.naver.com/article/032/0003015062) by 이슬아
+
+# 7월
+
+- 2020.07.01 [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191) by xguru
