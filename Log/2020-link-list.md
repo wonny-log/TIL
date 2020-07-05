@@ -81,3 +81,4 @@
 # 7월
 
 - 2020.07.01 [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191) by xguru
+- 2020.07.05 [[UX] 쉬운 말을 써야 한다](https://brunch.co.kr/@sei0/16) by Seiyoung Park
