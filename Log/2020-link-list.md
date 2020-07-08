@@ -83,3 +83,4 @@
 - 2020.07.01 [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191) by xguru
 - 2020.07.05 [[UX] 쉬운 말을 써야 한다](https://brunch.co.kr/@sei0/16) by Seiyoung Park
 - 2020.07.06 [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions) by Robin Wieruch
+- 2020.07.06 [존버를 위해 필요한 생각들](https://brunch.co.kr/@theee/78) by 세희
