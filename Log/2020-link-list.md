@@ -84,3 +84,4 @@
 - 2020.07.05 [[UX] 쉬운 말을 써야 한다](https://brunch.co.kr/@sei0/16) by Seiyoung Park
 - 2020.07.06 [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions) by Robin Wieruch
 - 2020.07.06 [존버를 위해 필요한 생각들](https://brunch.co.kr/@theee/78) by 세희
+- 2020.07.08 [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/) by 한재엽
