@@ -29,10 +29,10 @@
 
 # 7월
 
+- 2020.07.06- Test-Driven Development: By Example by 켄트 벡
 - 2020.07.08- 에고라는 적 by 라이언 홀리데이
 
 # 읽고 싶은 책
 
 - 자바스크립트는 왜 그 모양일까? by 더글라스 크락포드
-- Test-Driven Development: By Example by 켄트 벡
 - 레거시 코드 활용 전략 by 마이클 C. 페더스
