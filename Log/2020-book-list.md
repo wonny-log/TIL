@@ -29,7 +29,7 @@
 
 # 7월
 
-- 2020.07.06- Test-Driven Development: By Example by 켄트 벡
+- 2020.07.06-2020.07.11 Test-Driven Development: By Example by 켄트 벡
 - 2020.07.08- 에고라는 적 by 라이언 홀리데이
 - 2020.07.08- [2회독] 딥워크 by 칼 뉴포트
 
