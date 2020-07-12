@@ -85,3 +85,5 @@
 - 2020.07.06 [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions) by Robin Wieruch
 - 2020.07.06 [존버를 위해 필요한 생각들](https://brunch.co.kr/@theee/78) by 세희
 - 2020.07.08 [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/) by 한재엽
+- 2020.07.11 [차근차근 오픈소스에 기여해보기 (동기부여 편)](https://rinae.dev/posts/how-to-contribute-oss) by 안도형
+- 2020.07.12 [나만의 길을 걷는 것](https://brightparagon.wordpress.com/2018/03/11/own-path/) by 노경모
