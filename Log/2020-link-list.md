@@ -87,3 +87,4 @@
 - 2020.07.08 [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/) by 한재엽
 - 2020.07.11 [차근차근 오픈소스에 기여해보기 (동기부여 편)](https://rinae.dev/posts/how-to-contribute-oss) by 안도형
 - 2020.07.12 [나만의 길을 걷는 것](https://brightparagon.wordpress.com/2018/03/11/own-path/) by 노경모
+*2020.07.15 [8년째 같은 제품을 만들고 있습니다](https://speakerdeck.com/ridi/8nyeonjjae-gateun-jepumeul-mandeulgo-issseubnida) by 남현우
