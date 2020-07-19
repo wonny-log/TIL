@@ -90,3 +90,5 @@
 - 2020.07.15 [8년째 같은 제품을 만들고 있습니다](https://speakerdeck.com/ridi/8nyeonjjae-gateun-jepumeul-mandeulgo-issseubnida) by 남현우
 - 2020.07.17 [열심히 공부하지 마세요](http://agile.egloos.com/2897508) by 김창준
 - 2020.07.18 [표의 정석](https://drive.google.com/file/d/1uQ5VOXBNk_Nf6V5JUXhKl2pHZY5N1wA4/view) by 하용호
+- 2020.07.19 [쓰로틀링과 디바운싱](https://www.zerocho.com/category/JavaScript/post/59a8e9cb15ac0000182794fa) by 제로초
+- 2020.07.20 [디바운스(Debounce)와 스로틀(Throttle) 그리고 차이점](https://webclub.tistory.com/607) by 재희
