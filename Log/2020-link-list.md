@@ -92,3 +92,4 @@
 - 2020.07.18 [표의 정석](https://drive.google.com/file/d/1uQ5VOXBNk_Nf6V5JUXhKl2pHZY5N1wA4/view) by 하용호
 - 2020.07.19 [쓰로틀링과 디바운싱](https://www.zerocho.com/category/JavaScript/post/59a8e9cb15ac0000182794fa) by 제로초
 - 2020.07.20 [디바운스(Debounce)와 스로틀(Throttle) 그리고 차이점](https://webclub.tistory.com/607) by 재희
+- 2020.07.30 [토스의 마이크로프론트엔드 아키텍처, 그리고 자동화](https://speakerdeck.com/raon0211/toseuyi-maikeuropeuronteuendeu-akitegceo-geurigo-jadonghwa) by 박서진
