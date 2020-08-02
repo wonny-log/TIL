@@ -93,3 +93,9 @@
 - 2020.07.19 [쓰로틀링과 디바운싱](https://www.zerocho.com/category/JavaScript/post/59a8e9cb15ac0000182794fa) by 제로초
 - 2020.07.20 [디바운스(Debounce)와 스로틀(Throttle) 그리고 차이점](https://webclub.tistory.com/607) by 재희
 - 2020.07.30 [토스의 마이크로프론트엔드 아키텍처, 그리고 자동화](https://speakerdeck.com/raon0211/toseuyi-maikeuropeuronteuendeu-akitegceo-geurigo-jadonghwa) by 박서진
+
+# 8월
+
+- 2020.08.02 [영어 어휘 학습 어떻게 할까?](https://www.dogamdan.org/blog/voca) by Joyce Park
+- 2020.08.02 [11년차 개발자의 새로운 조직 적응기](https://blog.anyjava.net/1207) by anyjava
+- 2020.08.02 [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html) by 손권남
