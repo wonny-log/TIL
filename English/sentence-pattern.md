@@ -31,7 +31,7 @@ She didn't appear.
 
 ### 주요 1형식 동사
 
-다른 요소 없이도 주어의 동작이나 상태에 대해 완전한 정보를 줄 수 있는 동사
+- 다른 요소 없이도 주어의 동작이나 상태에 대해 완전한 정보를 줄 수 있는 동사
 
 go(가다), come(오다), arrive(도착하다), happen(일어나다, 발생하다), appear(나타나다, 발생하다), disappear(사라지다), exist(존재하다), stay(머무르다), lie(눕다, 놓여 있다), walk(걷다, 산책하다), breathe(숨 쉬다), sweat(땀을 흘리다), react(반응하다), exercise(운동하다), sleep(자다), gather(모이다), live(살다), laugh(웃다), agree(동의하다), work(일하다)
 
@@ -44,21 +44,36 @@ They walk to school every day.
 
 ## 2형식: 주어(S) + 동사(V) + 보어(C)
 
+The prize for the winner is a trip to Boston.
+I stayed awake all night.
+I feel exhausted lately.
+
 - 주어와 동사 외에 주어를 보충 설명하는 보어가 필요한 문장
-- 주어의 존재나 상태를 표현하기 위해 보어가 필요한 동사
+- 보어 자리에는 명사 또는 형용사 역할을 하는 어구가 온다.
+- '주어(S)는 보어(C)이다' 또는 '주어(S)는 보어(C)한 상태이다'라고 해석
 
 ### 주요 2형식 동사
 
-be, remain, stay, keep, become, get, go, come, fall, grow, turn, look, smell, feel, taste, seem, appear, sound
+- 주어의 존재나 상태를 표현하기 위해 보어가 필요한 동사
+- 주어의 상태나 성질을 타나내는 동사, 주어의 느낌을 전달하는 동사(지각동사)들이 대표적인 2형식 동사에 속한다.
+- be동사('~이다, ~한 상태이다')처럼 한글 뜻만 읽어도 동사만으로는 완전한 의미 전달이 불가능하고 보충해주는 말, '~'에 해당하는 부분이 있다면 그 부분을 채워주기 위해 보어가 필요하다. 그것이 2형식이다.
+
+be(~이다), remain(계속[여전히] ~이다), stay(~인 상태로 있다), keep(~인 채로 있다), become(~이 되다), get(~한 상태가 되다), go(~한 상태가 되다), come(~이 되다), fall(~한 상태에 빠지다), grow(~해지다), turn(~로 변하다), look(~처럼[하게] 보이다), smell(~한 냄새가 나다), feel(~한 느낌이 나다), taste(~한 맛이 나다), seem(~처럼 보이다), appear(~처럼 보이다), sound(~처럼 들리다)
 
 ## 3형식: 주어(S) + 동사(V) + 목적어(O)
 
 - 동사 뒤에 동작의 대상이 와야 의미가 완전해지는 문장
-- 목적어가 필요한 동사
+- '주어(S)는 목적어(O)를 동사(V)하다'라고 해석
+- 타동사: 동작의 대상인 목적어를 필요로 하는 동사이고 3형식 동사는 목적어가 필요하니 타동사다.
+- 자동사: 목적어 없이도 동작의 의미를 전달할 수 있는 동사이고 1형식 동사는 완전 자동사이고, 2형식 동사는 목적어는 없지만 보어가 필요하므로 불완전 자동사라 부른다.
+
 
 ### 주요 3형식 동사
 
-discuss, reach, marry, enter, approach, access, contact, attend, answer, cell, join, resemble
+- 목적어가 필요한 동사
+- 우리말 해석과 완전히 일치하지 않는 동사들이 있다. discuss, enter 등의 동사들 뒤에 불필요한 전치사를 붙이지 않도록 주의 필요하다. 가령 discuss는 '~에 대해 의논하다'라는 뜻이라 전치사 about을 목적어 앞에 써야 할 것 같지만 전치사를 붙이면 오히려 틀린 문장이 된다.
+
+discuss(~에 대해 의논하다), reach(~에 도달하다), marry(~와 결혼하다), enter(~에 들어가다), approach(~에 다가가다), access(~에 접근하다), contact(~와 연락하다), attend(~에 참석하다), answer(~에 답하다), call(~에게 전화하다), join(~에 가입하다), resemble(~와 닮다)
 
 ## 4형식: 주어(S) + 동사(V) + 간접목적어(I.O) + 직접목적어(D.O)
 
