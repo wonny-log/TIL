@@ -99,3 +99,4 @@
 - 2020.08.02 [영어 어휘 학습 어떻게 할까?](https://www.dogamdan.org/blog/voca) by Joyce Park
 - 2020.08.02 [11년차 개발자의 새로운 조직 적응기](https://blog.anyjava.net/1207) by anyjava
 - 2020.08.02 [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html) by 손권남
+- 2020.08.10 [map, reduce 활용하기](https://www.zerocho.com/category/JavaScript/post/5acafb05f24445001b8d796d) by 제로초
