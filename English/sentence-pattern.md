@@ -74,6 +74,9 @@ seem(~처럼 보이다), appear(~처럼 보이다), sound(~처럼 들리다)
 
 ## 3형식: 주어(S) + 동사(V) + 목적어(O)
 
+I bought a new watch.
+I joined the gym to lose weight.
+
 - 동사 뒤에 동작의 대상이 와야 의미가 완전해지는 문장
 - '주어(S)는 목적어(O)를 동사(V)하다'라고 해석
 - 타동사: 동작의 대상인 목적어를 필요로 하는 동사이고 3형식 동사는 목적어가 필요하니 타동사다.
@@ -92,6 +95,9 @@ call(~에게 전화하다), join(~에 가입하다), resemble(~와 닮다)
 ```
 
 ## 4형식: 주어(S) + 동사(V) + 간접목적어(I.O) + 직접목적어(D.O)
+
+The agent showed us several houses.
+She asked me a favor. -> She asked a favor of me.
 
 - 동사 뒤에 목적어가 두 개 나오는 문장
 - '간접목적어(I.O)에게 직접목적어(D.O)를 동사(V)하다'라고 해석
@@ -116,6 +122,9 @@ show(보여주다), tell(말해주다), deliver(배달하다), throw(던지다)
 - of + 간접목적어: ask, demand, require
 
 ## 5형식: 주어(S) + 동사(V) + 목적어(O) + 목적격보어(C)
+
+I consider him a friend.
+Someone left the door open.
 
 - 동사 뒤에 목적어와 목적어를 보충 설명하는 목적격보어가 나오는 문장
 - 목적격보어 자리에는 명사 또는 형용사 역할을 하는 어구가 올 수 있다.
