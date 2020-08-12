@@ -100,3 +100,5 @@
 - 2020.08.02 [11년차 개발자의 새로운 조직 적응기](https://blog.anyjava.net/1207) by anyjava
 - 2020.08.02 [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html) by 손권남
 - 2020.08.10 [map, reduce 활용하기](https://www.zerocho.com/category/JavaScript/post/5acafb05f24445001b8d796d) by 제로초
+- 2020.08.12 [Forcing Functions](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/forcing-functions) by interaction design foundation
+- 2020.08.12 [Burger King Hired an Absolute Genius — and It Paid Off](https://medium.com/better-marketing/burger-king-hired-an-absolute-genius-and-it-paid-off-8cbe181668f) by Sean Kernan
