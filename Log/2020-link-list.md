@@ -102,3 +102,4 @@
 - 2020.08.10 [map, reduce 활용하기](https://www.zerocho.com/category/JavaScript/post/5acafb05f24445001b8d796d) by 제로초
 - 2020.08.12 [Forcing Functions](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/forcing-functions) by interaction design foundation
 - 2020.08.12 [Burger King Hired an Absolute Genius — and It Paid Off](https://medium.com/better-marketing/burger-king-hired-an-absolute-genius-and-it-paid-off-8cbe181668f) by Sean Kernan
+- 2020.08.13 [글쓰고 코딩하는 인공지능이 현실로 다가왔다 GPT-3](https://select.ridibooks.com/article/@outstanding/2393) by 아웃스탠딩
