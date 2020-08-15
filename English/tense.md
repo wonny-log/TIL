@@ -36,12 +36,31 @@ I wanted to ask you a question.
 
 ## 미래시제
 
-- 형태
-  - will/be going to + 동사원형
+I'll call you later.
+She's going to wait in the lobby. // 그녀가 이미 그렇게 하겠다고 말했을 때 쓸 법한 표현
+We were going to grab some food. // 이전에 음식을 먹으려고 했지만 그렇지 하지 않았다는 뜻
+
 - 용법
   - will + 동사원형: 1) 미래의 사실 2) 막연한 추측 3) 즉흥적인 결심이나 의지
   - be going to + 동사원형: 1) 미래에 하기로 이미 예정된 일 2) 확실한 추측
 - 현재시제, 현재진행형도 미래에 일어날 일을 나타낼 수 있다.
+- 형태
+  - will: 긍정 - will + 동사원형 (~할 것이다), 부정 will not + 동사원형 (~하지 않을 것이다)
+  - be going to: 긍정 - be going to + 동사 원형 (~할 것이다, ~할 예정이다), 부정 be not going to + 동사 원형 (~하지 않을 것이다, ~하지 않을 예정이다)
+    - be동사 과거형을 쓰면 과거에 하려고 했으나 하지 못한 일을 나타낼 수 있다.
+
+**will vs bo going to vs 현재진행형**
+
+확실한 정도: will < be going to < 현재진행형
+
+I'll move to Canada. // 나는 캐나다로 이사 갈 거야 (이제 막 이사 갈 생각을 하는 상태)
+I'm going to move to Canada. // 나는 캐나다로 이사 갈 예정이야 (이미 이사 가기로 계획한 상태)
+I'm moving to Canada. // 나는 캐나다로 이사 가려고 하고 있어 (이미 결심했고, 이사 갈 집도 알아보는 등 준비를 시작한 상태)
+
+**그 밖의 미래 표현**
+
+- 현재시제: 시간/날짜상으로 확실하게 정해진 미래의 일을 나타낸다.
+- 현재진행형: 이미 계획한 일, 확정된 미래의 일을 나타낸다. 이미 그 일을 하기 위한 준비가 진행 중이라는 의미도 내포한다.
 
 ## 진행형
 
