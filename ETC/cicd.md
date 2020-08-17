@@ -1,5 +1,8 @@
 # CI/CD
 
+![](/_Images/cicd.png)
+출처: [Red Hat](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
+
 새로 작성한 코드가 프로덕션 환경에 배포되기까지의 애플리케이션 개발 단계를 자동화하여 개발 중인 애플리케이션을 보다 짧은 주기로 고객에게 제공하는 방법이다. 크게 아래의 두 단계로 나뉜다.
 
 ## CI (Continuous Integration)
