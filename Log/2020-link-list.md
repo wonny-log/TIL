@@ -103,3 +103,4 @@
 - 2020.08.12 [Forcing Functions](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/forcing-functions) by interaction design foundation
 - 2020.08.12 [Burger King Hired an Absolute Genius — and It Paid Off](https://medium.com/better-marketing/burger-king-hired-an-absolute-genius-and-it-paid-off-8cbe181668f) by Sean Kernan
 - 2020.08.13 [글쓰고 코딩하는 인공지능이 현실로 다가왔다 GPT-3](https://select.ridibooks.com/article/@outstanding/2393) by 아웃스탠딩
+- 2020.08.18 [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804/) by 곽희나
