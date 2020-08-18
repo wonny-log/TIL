@@ -2,6 +2,45 @@
 
 깃헙 레파지토리 내에서 소프트웨어 개발 개발 단계를 자동화할 수 있도록 도와주는 도구이다. 코드나 콜라보레이터, 풀 리퀘스트, 이슈 등이 추가/변경될 때 무엇을 수행할지 설정할 수 있어서 CI/CD 등을 구축할 수 있다.
 
+## Hello World
+
+### 1. 프로젝트의 `.github/workflows` 폴더 안에 워크플로우 파일(`*.yml`) 생성하기
+
+직접 생성해도 되고 GitHub 레파지토리의 Actions 탭에서 템플릿을 통해서 편하게 생성할 수도 있다.
+
+### 2. Hello GitHub Actions!를 출력하도록 구현한 워크플로우 파일 푸시하기
+
+```yaml
+name: CI
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build:
+    name: Hello GitHub Actions!
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello GitHub Actions!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+```
+
+### 3. GitHub 레파지토리의 Actions 탭에서 결과 확인하기
+
+![](/_Images/github-actions.png)
+
 ## Concept
 
 ### workflow
