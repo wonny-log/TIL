@@ -107,3 +107,4 @@
 - 2020.08.18 [kubernetes를 이용한 서비스 무중단 배포](https://tech.kakao.com/2018/12/24/kubernetes-deploy/) by hardy
 - 2020.08.18 [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html) by subicura
 - 2020.08.18 [쿠버네티스 시작하기 - Kubernetes란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html) by subicura
+- 2020.08.19 [쿠버네티스 Argo workflow 소개](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/) by coffee whale
